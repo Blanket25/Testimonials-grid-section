@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Testimonials Grid Section]()
+- Live Site URL: [Testimonials Grid Section](https://blanket25.github.io/Testimonials-grid-section/)
 
 ## My process
 
